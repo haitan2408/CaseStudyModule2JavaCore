@@ -1,0 +1,5 @@
+[id, nameService, areaUse, rentalCost, maxNumberOfPeople, typeRent, roomStandard, convenientDescription, areaPool, numberOfFloors]
+59c9c8c6abd6479db42a62e5c3afccb2,Hai,31.0,0.0,12,Quang,Quang,Hai,31.0,12
+59c9c8c6abd6479db42a62e5c3afccb2,Hoa,31.0,0.0,12,Quang,Quang,Hai,31.0,12
+59c9c8c6abd6479db42a62e5c3afccb2,Hoa,31.0,0.0,12,Quang,Quang,Hai,31.0,12
+2c18241bdd2247108d1f0b7e27c72d02,Hai,31.0,12.0,12,Quang,Quang,123,31.0,12

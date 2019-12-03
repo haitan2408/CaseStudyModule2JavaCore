@@ -1,0 +1,148 @@
+
+W
+squid:S106ï"9Replace this use of System.out or System.err by a logger.(•éõ«8İ Ñ°ì-
+Qsquid:S1199ö"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8İ Ñ°ì-
+W
+squid:S106­"9Replace this use of System.out or System.err by a logger.(œË’¥8İ Ñ°ì-
+\
+squid:S106Á"9Replace this use of System.out or System.err by a logger.(óÅ¾’şÿÿÿÿ8ãä«ë-
+W
+squid:S106…"9Replace this use of System.out or System.err by a logger.(¦ÌıÍ8„ñ÷°ì-
+—squid:S1192†"sDefine a constant instead of duplicating this literal "--------------------------------------------------" 8 times.(óÅ¾’şÿÿÿÿ8İ Ñ°ì-
+V
+squid:S106l"9Replace this use of System.out or System.err by a logger.(ŸÆ¹8İ Ñ°ì-
+W
+squid:S106Ğ"9Replace this use of System.out or System.err by a logger.(Ü†˜¯8İ Ñ°ì-
+Ysquid:S1854ƒ":Remove this useless assignment to local variable "houses".(…§’Ø8„ñ÷°ì-
+Lsquid:S1199é"-Extract this nested code block into a method.(ÎŞèº8İ Ñ°ì-
+Ksquid:S1199;"-Extract this nested code block into a method.(ô‹Êâ8õšˆ¯ì-
+Lsquid:S1199‹"-Extract this nested code block into a method.(ô‹Êâ8İ Ñ°ì-
+\
+squid:S106«"9Replace this use of System.out or System.err by a logger.(óÅ¾’şÿÿÿÿ8æ‘Ö£ì-
+W
+squid:S106™"9Replace this use of System.out or System.err by a logger.(ò¤µæ8ßŸ–­ì-
+V
+squid:S106X"9Replace this use of System.out or System.err by a logger.(Á”¦ô8ˆ¡ş°ì-
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(óÅ¾’şÿÿÿÿ8 ºÅ£ì-
+\
+squid:S106¹"9Replace this use of System.out or System.err by a logger.(èì¸’üÿÿÿÿ8æ‘Ö£ì-
+\
+squid:S106Ì"9Replace this use of System.out or System.err by a logger.(ÕÈôúÿÿÿÿ8İ Ñ°ì-
+W
+squid:S106Â"9Replace this use of System.out or System.err by a logger.(å8İ Ñ°ì-
+\
+squid:S106•"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8£¥ç¢ì-
+Wsquid:S1854‘"9Remove this useless assignment to local variable "rooms".(Ç¢É8„ñ÷°ì-
+[
+squid:S106R"9Replace this use of System.out or System.err by a logger.(èñµÿÿÿÿÿ8İ Ñ°ì-
+Ksquid:S1199/"-Extract this nested code block into a method.(ÎŞèº8Å›ãäë-
+\
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ùåªÎşÿÿÿÿ8İ Ñ°ì-
+W
+squid:S106”"9Replace this use of System.out or System.err by a logger.(Óƒç8¡İæ¢ì-
+Qsquid:S1199´"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ8İ Ñ°ì-
+Psquid:S1199C"-Extract this nested code block into a method.(ÿÅÖ²ÿÿÿÿÿ8áË°ì-
+\squid:S1854×"=Remove this useless assignment to local variable "customers".(öøñŸ8İ Ñ°ì-
+V
+squid:S106 "9Replace this use of System.out or System.err by a logger.(•éõ«8ø±Ê‚ë-
+\
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.(£Ì«ÿøÿÿÿÿ8İ Ñ°ì-
+W
+squid:S106“"9Replace this use of System.out or System.err by a logger.(Œ¡ñ8„ñ÷°ì-
+V
+squid:S106V"9Replace this use of System.out or System.err by a logger.(¾“÷é8½ºÒ°ì-
+Psquid:S1199'"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8ÌÜ¢¨ë-
+Psquid:S1199J"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ8Şœù­ì-
+Lsquid:S1199†"-Extract this nested code block into a method.(îÒ«Â8İ Ñ°ì-
+Qsquid:S1199"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ8İ Ñ°ì-
+\
+squid:S106¯"9Replace this use of System.out or System.err by a logger.(òöŞöúÿÿÿÿ8İ Ñ°ì-
+Qsquid:S1199Ü"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8İ Ñ°ì-
+Qsquid:S1199Á"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ8İ Ñ°ì-
+V
+squid:S106o"9Replace this use of System.out or System.err by a logger.(¥µÒ¥8İ Ñ°ì-
+Qsquid:S1199à"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8İ Ñ°ì-
+\
+squid:S106Ë"9Replace this use of System.out or System.err by a logger.(óÅ¾’şÿÿÿÿ8ºÜµ«ë-
+Ksquid:S11997"-Extract this nested code block into a method.(îÒ«Â8ÀÑø­ì-
+Lsquid:S1199ş"-Extract this nested code block into a method.(ÎŞèº8İ Ñ°ì-
+[
+squid:S106z"9Replace this use of System.out or System.err by a logger.(Êô²ºúÿÿÿÿ8È¯ş­ì-
+\
+squid:S106·"9Replace this use of System.out or System.err by a logger.(óÅ¾’şÿÿÿÿ8ÿÈŸ¯ë-
+W
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(•éõ«8İ Ñ°ì-
+\
+squid:S106ç"9Replace this use of System.out or System.err by a logger.(éĞìøÿÿÿÿ8İ Ñ°ì-
+Ksquid:S11993"-Extract this nested code block into a method.(Ó‚ï8ìŞˆ¨ë-
+V
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(¼¡¨ò8¸ıÕ°ì-
+\
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(óÅ¾’şÿÿÿÿ8æ‘Ö£ì-
+V
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(Á”¦ô8¬Åş°ì-
+Psquid:S1199+"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ8ª³½¼ë-
+n
+squid:S128G"LEnd this switch case with an unconditional break, return or throw statement.(ê×Êüÿÿÿÿ8Âãù­ì-
+W
+squid:S106º"9Replace this use of System.out or System.err by a logger.(•¸­Ì8İ Ñ°ì-
+\
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(èì¸’üÿÿÿÿ8æ‘Ö£ì-
+V
+squid:S106f"9Replace this use of System.out or System.err by a logger.(ê¾ú®8İ Ñ°ì-
+W
+squid:S106®"9Replace this use of System.out or System.err by a logger.(«‹Îõ8İ Ñ°ì-
+Qsquid:S1199§"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8İ Ñ°ì-
+Psquid:S1199#"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8áÍ‚ë-
+Qsquid:S1199í"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ8İ Ñ°ì-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹Ä’Â8ø±Ê‚ë-
+rsquid:S1192 "TDefine a constant instead of duplicating this literal "Enter your choice: " 4 times.(•éõ«8ÄÀ¡ì-
+W
+squid:S106š"9Replace this use of System.out or System.err by a logger.(«‹Îõ8İ Ñ°ì-
+Psquid:S1199G"-Extract this nested code block into a method.(ê×Êüÿÿÿÿ8Ó—²¡ì-
+Ysquid:S1854õ":Remove this useless assignment to local variable "villas".(Ú’ÿ´8İ Ñ°ì-
+Qsquid:S1199ú"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ8İ Ñ°ì-
+W
+squid:S106£"9Replace this use of System.out or System.err by a logger.(ò¤µæ8Ó©³­ì-
+V
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(ë‹àB8İ Ñ°ì-
+\
+squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(èì¸’üÿÿÿÿ8»È£ì-
+\
+squid:S106Ï"9Replace this use of System.out or System.err by a logger.(óÅ¾’şÿÿÿÿ8ğ·ääë-
+V
+squid:S106–"9Replace this use of System.out or System.err by a logger.(ë‹àB8İ Ñ°ì-
+W
+squid:S106‡"9Replace this use of System.out or System.err by a logger.(äÀÇŒ8İ Ñ°ì-
+W
+squid:S106­"9Replace this use of System.out or System.err by a logger.(ò¤µæ8Ó©³­ì-
+wsquid:S1192™"XDefine a constant instead of duplicating this literal "-----------------------" 3 times.(ò¤µæ8İ Ñ°ì-
+W
+squid:S106¼"9Replace this use of System.out or System.err by a logger.(ÉÇ¬Á8İ Ñ°ì-
+W
+squid:S106¤"9Replace this use of System.out or System.err by a logger.(«‹Îõ8İ Ñ°ì-
+Ksquid:S1199?"-Extract this nested code block into a method.(­Ó–Ô8‡ı³¯ì-
+Qsquid:S1199š"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8İ Ñ°ì-
+V
+squid:S106{"9Replace this use of System.out or System.err by a logger.(¼¡¨ò8İ Ñ°ì-
+\
+squid:S106¢"9Replace this use of System.out or System.err by a logger.(ïÔ••úÿÿÿÿ8İ Ñ°ì-
+\
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(é×¼Ñøÿÿÿÿ8İ Ñ°ì-
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(•éõ«8İ Ñ°ì-
+Qsquid:S1199ä"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ8İ Ñ°ì-
+Qsquid:S1199ò"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8İ Ñ°ì-
+W
+squid:S106÷"9Replace this use of System.out or System.err by a logger.(Œ¡ñ8İ Ñ°ì-
+\
+squid:S106†"9Replace this use of System.out or System.err by a logger.(óÅ¾’şÿÿÿÿ8ñà´¡ì-
+\
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(Ãêßşüÿÿÿÿ8¿²”¢ì-
+Lsquid:S1199‚"-Extract this nested code block into a method.(Ó‚ï8İ Ñ°ì-
+W
+squid:S106Ù"9Replace this use of System.out or System.err by a logger.(«Ñï8İ Ñ°ì-
+W
+squid:S106Ù"9Replace this use of System.out or System.err by a logger.(œ„“‹8İ Ñ°ì-

@@ -1,0 +1,103 @@
+
+\
+squid:S106ú"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8½îŒ­ì-
+Jsquid:S1481ø"+Remove this unused "writer" local variable.(Ëğúœ8½îŒ­ì-
+^squid:S1854Ì":Remove this useless assignment to local variable "writer".(å±²Êøÿÿÿÿ8½îŒ­ì-
+gsquid:S2095ş"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Ôë¢¥8½îŒ­ì-
+Gsquid:S1148¾"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½îŒ­ì-
+squid:S1192]"lDefine a constant instead of duplicating this literal "Error while flushing/closing fileWriter !!!" 5 times.(ğã€•ûÿÿÿÿ8½îŒ­ì-
+\
+squid:S106½"9Replace this use of System.out or System.err by a logger.(ğã€•ûÿÿÿÿ8½îŒ­ì-
+\
+squid:S106å"9Replace this use of System.out or System.err by a logger.(Šâ‡¦ùÿÿÿÿ8½îŒ­ì-
+^squid:S1854”":Remove this useless assignment to local variable "writer".(»˜¬ùÿÿÿÿ8½îŒ­ì-
+Fsquid:S1148V"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½îŒ­ì-
+\
+squid:S106Î"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8½îŒ­ì-
+^squid:S3725®":Replace this with a call to the "toFile().exists()" method( ÖáÓıÿÿÿÿ8½îŒ­ì-
+\
+squid:S106²"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8½îŒ­ì-
+\
+squid:S106®"9Replace this use of System.out or System.err by a logger.(ğã€•ûÿÿÿÿ8½îŒ­ì-
+Ysquid:S1854ø":Remove this useless assignment to local variable "writer".(Ëğúœ8½îŒ­ì-
+‰squid:S1192R"fDefine a constant instead of duplicating this literal "CSV file was created successfully !!!" 5 times.(Öñ »øÿÿÿÿ8½îŒ­ì-
+\
+squid:S106§"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8½îŒ­ì-
+Fsquid:S1148*"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½îŒ­ì-
+Gsquid:S1148õ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½îŒ­ì-
+Osquid:S1481”"+Remove this unused "writer" local variable.(»˜¬ùÿÿÿÿ8½îŒ­ì-
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(úùæê8ĞÈ”­ì-
+gsquid:S2259ê"HA "NullPointerException" could be thrown; "fileWriter" is nullable here.(‘×œè8½îŒ­ì-
+ksquid:S2259á"GA "NullPointerException" could be thrown; "csvToBean" is nullable here.(ÿ•Î«ıÿÿÿÿ8½îŒ­ì-
+Gsquid:S1148¯"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½îŒ­ì-
+fsquid:S1192"HDefine a constant instead of duplicating this literal "areaUse" 4 times.(˜ùÓä8¦½‰­ì-
+esquid:S2095i"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(€ïÖ8½îŒ­ì-
+Nsquid:S2093È"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8½îŒ­ì-
+\
+squid:S106²"9Replace this use of System.out or System.err by a logger.(Öñ »øÿÿÿÿ8½îŒ­ì-
+Gsquid:S1148§"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½îŒ­ì-
+gsquid:S1192"IDefine a constant instead of duplicating this literal "typeRent" 4 times.(˜ùÓä8¦½‰­ì-
+[
+squid:S106]"9Replace this use of System.out or System.err by a logger.(ğã€•ûÿÿÿÿ8½îŒ­ì-
+\
+squid:S106‹"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8½îŒ­ì-
+Nsquid:S2093š"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8½îŒ­ì-
+lsquid:S2095Ì"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(å±²Êøÿÿÿÿ8½îŒ­ì-
+Msquid:S20934"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8½îŒ­ì-
+Gsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½îŒ­ì-
+\
+squid:S106‡"9Replace this use of System.out or System.err by a logger.(Šâ‡¦ùÿÿÿÿ8½îŒ­ì-
+Gsquid:S1148ˆ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½îŒ­ì-
+\
+squid:S106£"9Replace this use of System.out or System.err by a logger.(Öñ »øÿÿÿÿ8½îŒ­ì-
+ksquid:S2259"GA "NullPointerException" could be thrown; "csvToBean" is nullable here.(ÿ•Î«ıÿÿÿÿ8½îŒ­ì-
+lsquid:S2095›"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Ó›Êüÿÿÿÿ8½îŒ­ì-
+Gsquid:S1148æ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½îŒ­ì-
+\
+squid:S106Ã"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8½îŒ­ì-
+Gsquid:S1148ó"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½îŒ­ì-
+Fsquid:S1148^"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½îŒ­ì-
+bsquid:S2147)"DCombine this catch with the one at line 39, which has the same body.(ï­£Ä8½îŒ­ì-
+\
+squid:S106í"9Replace this use of System.out or System.err by a logger.(ğã€•ûÿÿÿÿ8½îŒ­ì-
+^squid:S3725’":Replace this with a call to the "toFile().exists()" method( ÖáÓıÿÿÿÿ8½îŒ­ì-
+gsquid:S2259Œ"HA "NullPointerException" could be thrown; "fileWriter" is nullable here.(‘×œè8½îŒ­ì-
+\
+squid:S106â"9Replace this use of System.out or System.err by a logger.(Öñ »øÿÿÿÿ8½îŒ­ì-
+lsquid:S2095É"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ÿ•Šôüÿÿÿÿ8½îŒ­ì-
+gsquid:S2259º"HA "NullPointerException" could be thrown; "fileWriter" is nullable here.(‘×œè8½îŒ­ì-
+Gsquid:S1148¶"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½îŒ­ì-
+fsquid:S20955"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(¬äÂ¹8½îŒ­ì-
+Msquid:S2093h"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8½îŒ­ì-
+Fsquid:S1148("#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½îŒ­ì-
+ksquid:S2259Å"GA "NullPointerException" could be thrown; "csvToBean" is nullable here.(ÿ•Î«ıÿÿÿÿ8½îŒ­ì-
+Nsquid:S2093ı"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8½îŒ­ì-
+lsquid:S2095”"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(»˜¬ùÿÿÿÿ8½îŒ­ì-
+\
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(Šâ‡¦ùÿÿÿÿ8½îŒ­ì-
+^squid:S3725Ê":Replace this with a call to the "toFile().exists()" method( ÖáÓıÿÿÿÿ8½îŒ­ì-
+gsquid:S2095ø"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Ëğúœ8½îŒ­ì-
+[
+squid:S106R"9Replace this use of System.out or System.err by a logger.(Öñ »øÿÿÿÿ8½îŒ­ì-
+[
+squid:S106U"9Replace this use of System.out or System.err by a logger.(Šâ‡¦ùÿÿÿÿ8½îŒ­ì-
+Osquid:S1481Ì"+Remove this unused "writer" local variable.(å±²Êøÿÿÿÿ8½îŒ­ì-
+Ysquid:S1854°":Remove this useless assignment to local variable "writer".(ó„Ş8½îŒ­ì-
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğã€•ûÿÿÿÿ8½îŒ­ì-
+\
+squid:S106ß"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8½îŒ­ì-
+\
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(Šâ‡¦ùÿÿÿÿ8½îŒ­ì-
+Gsquid:S1148î"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½îŒ­ì-
+psquid:S1192"RDefine a constant instead of duplicating this literal "maxNumberOfPeople" 4 times.(˜ùÓä8¦½‰­ì-
+~squid:S1192U"[Define a constant instead of duplicating this literal "Error in CsvFileWriter !!!" 5 times.(Šâ‡¦ùÿÿÿÿ8½îŒ­ì-
+gsquid:S2095°"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ó„Ş8½îŒ­ì-
+\
+squid:S106„"9Replace this use of System.out or System.err by a logger.(Öñ »øÿÿÿÿ8½îŒ­ì-
+dsquid:S2147ô"ECombine this catch with the one at line 370, which has the same body.(ï­£Ä8½îŒ­ì-
+ksquid:S2259©"GA "NullPointerException" could be thrown; "csvToBean" is nullable here.(ÿ•Î«ıÿÿÿÿ8½îŒ­ì-
+^squid:S3725ö":Replace this with a call to the "toFile().exists()" method( ÖáÓıÿÿÿÿ8½îŒ­ì-
+Jsquid:S1481°"+Remove this unused "writer" local variable.(ó„Ş8½îŒ­ì-
+\
+squid:S106–"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8½îŒ­ì-
