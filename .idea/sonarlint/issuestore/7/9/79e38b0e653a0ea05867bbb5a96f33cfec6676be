@@ -1,45 +1,45 @@
 
-[
-squid:S106F"9Replace this use of System.out or System.err by a logger.(Û¼×ªûÿÿÿÿ8ƒ™÷³ë-
-[
-squid:S106`"9Replace this use of System.out or System.err by a logger.(ç›¢ıÿÿÿÿ8ï“ê´ë-
-squid:S11924"^Define a constant instead of duplicating this literal "Nháº­p sai kiá»ƒu dá»¯ liá»‡u" 4 times.(Û¼×ªûÿÿÿÿ8–›š´ë-
-[
-squid:S1061"9Replace this use of System.out or System.err by a logger.(ÒÆÏŞúÿÿÿÿ8ùîß»ë-
-[
-squid:S1064"9Replace this use of System.out or System.err by a logger.(Û¼×ªûÿÿÿÿ8“öß³ë-
-[
-squid:S106W"9Replace this use of System.out or System.err by a logger.(Û¼×ªûÿÿÿÿ8–›š´ë-
-\
-squid:S106"9Replace this use of System.out or System.err by a logger.(´ÖÔÕøÿÿÿÿ8±‘½ºë-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(¶¾©ƒ8ˆ§ú´ë-
-V
-squid:S106q"9Replace this use of System.out or System.err by a logger.(×°é‡8“µ«ºë-
-V
-squid:S106O"9Replace this use of System.out or System.err by a logger.(™©Ã¦8–›š´ë-
-V
-squid:S106>"9Replace this use of System.out or System.err by a logger.(Ÿõ”8ƒ™÷³ë-
-Vsquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü8º¢şºë-
-[
-squid:S1065"9Replace this use of System.out or System.err by a logger.(ÒÆÏŞúÿÿÿÿ8™­à»ë-
 :squid:S1643x"Use a StringBuilder instead.(Èé¬×8ÑÙëºë-
-U
-squid:S106}"9Replace this use of System.out or System.err by a logger.(ıšû 8ã¯»ë-
-[
-squid:S106C"9Replace this use of System.out or System.err by a logger.(·®ĞÔûÿÿÿÿ8ƒ™÷³ë-
-V
-squid:S106T"9Replace this use of System.out or System.err by a logger.(Ã¨ßü8–›š´ë-
-[
-squid:S106""9Replace this use of System.out or System.err by a logger.(ã¶°âüÿÿÿÿ8Òİ µë-
-~squid:S1192#"[Define a constant instead of duplicating this literal "Má»i báº¡n nháº­p láº¡i: " 3 times.(ÒÆÏŞúÿÿÿÿ8™­à»ë-
-U
-squid:S106e"9Replace this use of System.out or System.err by a logger.(œ§œ8ï“ê´ë-
-V
-squid:S1060"9Replace this use of System.out or System.err by a logger.( ˆñ8ÄĞî³ë-
 [
 squid:S106h"9Replace this use of System.out or System.err by a logger.(Û¼×ªûÿÿÿÿ8ï“ê´ë-
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(¾€Šçøÿÿÿÿ8ˆ§ú´ë-
+V
+squid:S106q"9Replace this use of System.out or System.err by a logger.(×°é‡8“µ«ºë-
 [
 squid:S106#"9Replace this use of System.out or System.err by a logger.(ÒÆÏŞúÿÿÿÿ8ÓìŞ»ë-
+[
+squid:S106`"9Replace this use of System.out or System.err by a logger.(ç›¢ıÿÿÿÿ8ï“ê´ë-
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(´ÖÔÕøÿÿÿÿ8±‘½ºë-
+U
+squid:S106e"9Replace this use of System.out or System.err by a logger.(œ§œ8ï“ê´ë-
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(ã¶°âüÿÿÿÿ8Òİ µë-
+~squid:S1192#"[Define a constant instead of duplicating this literal "Má»i báº¡n nháº­p láº¡i: " 3 times.(ÒÆÏŞúÿÿÿÿ8™­à»ë-
+[
+squid:S106C"9Replace this use of System.out or System.err by a logger.(·®ĞÔûÿÿÿÿ8ƒ™÷³ë-
+V
+squid:S106>"9Replace this use of System.out or System.err by a logger.(Ÿõ”8ƒ™÷³ë-
+[
+squid:S1065"9Replace this use of System.out or System.err by a logger.(ÒÆÏŞúÿÿÿÿ8™­à»ë-
+V
+squid:S1060"9Replace this use of System.out or System.err by a logger.( ˆñ8ÄĞî³ë-
+squid:S11924"^Define a constant instead of duplicating this literal "Nháº­p sai kiá»ƒu dá»¯ liá»‡u" 4 times.(Û¼×ªûÿÿÿÿ8–›š´ë-
+Vsquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü8º¢şºë-
+V
+squid:S106O"9Replace this use of System.out or System.err by a logger.(™©Ã¦8–›š´ë-
+[
+squid:S106F"9Replace this use of System.out or System.err by a logger.(Û¼×ªûÿÿÿÿ8ƒ™÷³ë-
+[
+squid:S1064"9Replace this use of System.out or System.err by a logger.(Û¼×ªûÿÿÿÿ8“öß³ë-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶¾©ƒ8ˆ§ú´ë-
+U
+squid:S106}"9Replace this use of System.out or System.err by a logger.(ıšû 8ã¯»ë-
+V
+squid:S106T"9Replace this use of System.out or System.err by a logger.(Ã¨ßü8–›š´ë-
+[
+squid:S1061"9Replace this use of System.out or System.err by a logger.(ÒÆÏŞúÿÿÿÿ8ùîß»ë-
+[
+squid:S106W"9Replace this use of System.out or System.err by a logger.(Û¼×ªûÿÿÿÿ8–›š´ë-

@@ -1,4 +1,4 @@
 
-:squid:S1643}"Use a StringBuilder instead.(Èé¬×8¡±äë-
-`squid:S00107"AConstructor has 9 parameters, which is greater than 7 authorized.(—ÿ¸¯8•Çü»ë-
-_squid:S00107"AConstructor has 8 parameters, which is greater than 7 authorized.(»û°8Øà§ì-
+fsquid:S00107"BConstructor has 10 parameters, which is greater than 7 authorized.(±è‡›şÿÿÿÿ8•Çü»ë-
+esquid:S00107!"AConstructor has 9 parameters, which is greater than 7 authorized.(÷µ‰´üÿÿÿÿ8Øà§ì-
+;squid:S1643‰"Use a StringBuilder instead.(Èé¬×8¡±äë-

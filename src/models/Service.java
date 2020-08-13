@@ -1,7 +1,7 @@
 package models;
 
 public abstract class Service {
-    private String id;
+    protected String id;
     private String nameService;
     private double area​​Use;
     private double rentalCosts;

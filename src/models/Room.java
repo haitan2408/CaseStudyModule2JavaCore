@@ -30,4 +30,5 @@ public class Room extends Service {
                 "Type Rent: " + super.getTypeRent() + '\n' +
                 "Free ServiceInterface: " + freeService;
     }
+
 }

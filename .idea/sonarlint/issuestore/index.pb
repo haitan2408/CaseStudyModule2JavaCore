@@ -57,3 +57,13 @@ Y
 0src/service/impl/BookingCinema4DServiceImpl.java,4\c\4c4c187fc6f665cbd55d987a90b93309e3743e4d
 _
 /src/service/impl/FilingCabinetsServiceImpl.java,1\0\103b776bb0622186f62c125ae6f6a93bb8a1f7ce
+F
+caseStudy_Module_2.iml,0\c\0cf4b24a980aa9e1965523043bfa077ced03ac60
+T
+$src/exception/BirthdayException.java,7\b\7bb3caec280411081e6c1d95a338aec2f9a948fe
+R
+"src/exception/GenderException.java,a\8\a8c50e1b6c1092c5f4795cf36b7bbdd0d7c62b1f
+Q
+!src/exception/EmailException.java,6\e\6e353102583817b7022aa89aa92f90a24fe915e1
+R
+"src/exception/IDCardException.java,5\b\5bec5e510545e7ed42d0bfc17480193a62e14708
